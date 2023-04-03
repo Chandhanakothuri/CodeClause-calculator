@@ -1,5 +1,7 @@
 # CodeClause-calculator
-It is a simple calculator used to perform arithmetic operations on numbers.
+# It is a simple calculator used to perform arithmetic operations on numbers.
+
+
 def add(num1, num2):
     return num1 + num2
 def subtract(num1, num2):
